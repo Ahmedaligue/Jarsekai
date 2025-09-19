@@ -11,20 +11,20 @@ global.setting = {
 
 // Owner
 global.owner = [
-    ['6282148864989', 'Jarsépay', true]
+    ['212625457341', 'احمد ايشيغامي', true]
 ]
 
 // Info
 global.info = {
-    namaowner: 'Jarsépay',
-    nomorowner: '6282148864989',
+    namaowner: 'احمد ايشيغامي',
+    nomorowner: '212625457341',
     pairingNumber: '', // Please fill your number starting with your country code. Example: '6282148864989'
-    packname: 'Sticker by ',
-    author: 'Jarsépay',
-    namabot: 'Jarsekai',
-    wm: 'I M  J A R S E K A I',
-    stickpack: 'Created by',
-    stickauth: 'Jarsépay'
+    packname: 'زاوفان بوت',
+    author: 'احمد ايشيغامي',
+    namabot: 'زاوفان بوت',
+    wm: 'زاوفان بوت',
+    stickpack: 'زاوفان بوت',
+    stickauth: 'زاوفان بوت'
 }
 
 // Thumbnail 
